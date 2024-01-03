@@ -72,10 +72,10 @@ I'd definitely love to understand flexbox and css grid more as well as being abl
 
 ### Useful resources
 
-- (https://w3schools.com) - This helped me to deal with css properties like box-shadow and border-radius, along with any other question that popped up during the making of this
-- (https://www.htmlcheatsheet.com) - This site has many offshoots (of css, java , etc) 
+- (https://w3schools.com) - This helped me to deal with css properties like box-shadow and border-radius, along with any other question that popped up during the making of this.
+- (https://www.htmlcheatsheet.com) - This site has many offshoots (of css, java , etc) that help with fine-tuning some properties.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+
 
 ## Author
 
